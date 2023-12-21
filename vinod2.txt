@@ -1,0 +1,28 @@
+Old Jane
+H
+Old David
+H
+Old Anne
+H
+Old John
+H
+Old Peter
+F
+Old Beth
+H
+Old Alice
+H
+Young Jane
+A
+Young David
+A
+Young Anne
+A
+Young John
+A
+Young Peter
+D
+Young Beth
+A
+Young Alice
+A
